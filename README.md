@@ -124,7 +124,7 @@ Live Demo: https://calendar-efc2.onrender.com/
 
 ## Video Demonstration
 
-Video Walkthrough: [https://your-video-link](https://youtu.be/ABPaPcLGkWM)
+Video Walkthrough: https://youtu.be/ABPaPcLGkWM
 
 ---
 
